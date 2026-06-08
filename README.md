@@ -62,8 +62,8 @@ Here we use the: https://github.com/dhh1995/PromptCoder.git this tool, please do
 If you find the code is valuable, please use this citation.
 ```
 @article{zhang2024ai,
-  title={When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments},
-  author={Zhang, Chong and Liu, Xinyi and Jin, Mingyu and Zhang, Zhongmou and Li, Lingyao and Wang, Zhengting and Hua, Wenyue and Shu, Dong and Zhu, Suiyuan and Jin, Xiaobo and others},
+  title={When ai meets finance (stockagent): Large language model-based stock trading in simulated real-world environments},
+  author={Zhang, Chong and Liu, Xinyi and Zhang, Zhongmou and Jin, Mingyu and Li, Lingyao and Wang, Zhenting and Hua, Wenyue and Shu, Dong and Zhu, Suiyuan and Jin, Xiaobo and others},
   journal={arXiv preprint arXiv:2407.18957},
   year={2024}
 }
