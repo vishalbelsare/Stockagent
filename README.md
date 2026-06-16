@@ -7,6 +7,7 @@ Can AI Agents simulate real-world trading environments to investigate the impact
 
 ## Link
 ARXIV LINK: https://arxiv.org/pdf/2407.18957
+
 Accepted by Transactions on Intelligent Systems and Technology (ACM TIST)
 ## Architecture
 ![architect](fig/workflow2.png)
